@@ -1,2 +1,2 @@
 # WalletSystem
-Android app made using Kotlin, Java, and Android Studio.
+Android app made using Kotlin and Android Studio.
