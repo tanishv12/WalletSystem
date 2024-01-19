@@ -23,13 +23,11 @@ The application requires several extensions to the build gradle, such as the imp
 <img width="345" alt="Screenshot 2024-01-18 at 9 07 40 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/8b31b70d-34a1-4053-8fa1-6dbd71b74edc">
 
 ### Add Item/ Update Item Screen
-<img width="343" alt="Screen<img width="343" alt="Screenshot 2024-01-18 at 9 08 44 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/51bc7438-9bf3-4d36-b9cc-0398f1823ddb">shot 2024-01-18 at 9 08 03 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/8bd0eabd-4290-46f0-9e62-e8fdf3c767ea">
+<img width="343" alt="Screenshot 2024-01-18 at 9 08 03 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/a9e2ae90-e855-4b95-ad7d-47e2853c49bb">
 
-### Date Picker Feature
-![Uploading Screenshot 2024-01-18 at 9.08.44 PM.png…]()
+### Valid Error Message
+<img width="353" alt="Screenshot 2024-01-18 at 9 08 57 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/0801dc2a-36ec-4890-9d01-8a7d6551b985">
 
-### Valid Error Messages
-<img width="353" alt="Screenshot 2024-01-18 at 9 08 57 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/189d0efb-1717-4bfe-9ce4-26ec705b68ab">
 
 
 
