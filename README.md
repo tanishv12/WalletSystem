@@ -8,14 +8,12 @@ The application requires several extensions to the build gradle, such as the imp
 • Users can see the total cost of their financial expenses.  
 • Users can see their total income.  
 • Users can update the different costs, dates, names, and descriptions of the item entered by clicking the item in the transactions list.  
- 
 • Users can see their total savings.  
 • Users can enter the date they purchased the item and edit it later.  
 • Error messages are shown when required to be shown.  
 • The user interface is easy to understand and is not complex.  
 • The colors of the income values are green, and expenses are red.  
 • When the savings are less than 0, the color of the savings text becomes red, and when it is above 0, it becomes green.  
- 
 • The buttons in the app redirect the users to the appropriate connected screen.  
 • The transaction list has a scroll enabled, allowing users to have multiple entries.  
 • The application can be run on mobile platforms.  
