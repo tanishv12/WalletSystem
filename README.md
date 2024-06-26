@@ -20,7 +20,9 @@ The application can be run on mobile platforms.
 
 ## Visual Description 
 
-https://github.com/tanishv12/WalletSystem/assets/65863468/da318f57-526c-4a54-baa9-d0876ec93982
+
+https://github.com/tanishv12/WalletSystem/assets/65863468/f7fdd91a-0200-449e-a182-c8bf133f76cf
+
 
 ### Dashboard/Home Screen
 <img width="345" alt="Screenshot 2024-01-18 at 9 07 40 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/8b31b70d-34a1-4053-8fa1-6dbd71b74edc">
