@@ -19,6 +19,7 @@ The transaction list has a scroll enabled, allowing users to have multiple entri
 The application can be run on mobile platforms.  
 
 ## Visual Description 
+![](https://github.com/tanishv12/WalletSystem/blob/main/Crit_D_Video.gif)
 ### Dashboard/Home Screen
 <img width="345" alt="Screenshot 2024-01-18 at 9 07 40 PM" src="https://github.com/tanishv12/WalletSystem/assets/65863468/8b31b70d-34a1-4053-8fa1-6dbd71b74edc">
 
